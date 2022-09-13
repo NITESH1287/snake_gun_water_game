@@ -9,7 +9,7 @@ TP=0
 i=0
 list=["s","g","w"]
 while (i<z):
-    print("USER ENTE YOUR CHOICE")
+    print("USER ENTER YOUR CHOICE")
     i+=1
     UC=input()
     UC.lower()
